@@ -44,3 +44,6 @@ mlflow server --host 0.0.0.0 --port 5000 --default-artifact-root s3://mlflowurit
 
 #set uri in your local terminal and in your code 
 export MLFLOW_TRACKING_URI=http://ec2-56-228-81-180.eu-north-1.compute.amazonaws.com:5000/
+
+# Start of readme content
+
